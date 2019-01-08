@@ -1,0 +1,30 @@
+
+   在src目录下执行语句：
+
+   node miaov create app 回车
+
+   node ls  回车
+
+    // [ '1.js', 'a', 'app', 'hello.js', 'ls.js', 'miaov.js' ]
+　　
+　 node ls -l  回车
+
+   1.js
+   a
+   app
+   hello.js
+   ls.js
+   miaov.js
+
+
+
+　　node hello   回车
+
+    // hello nodejs
+
+
+创建的miaov.cmd文件放在下面的路径里可以作为全局使用：
+
+C:\Users\Administrator\AppData\Local\Yarn\bin  
+
+

@@ -1,0 +1,19 @@
+  
+   在mhx20190105 目录下执行命令语句：
+
+ 
+  使用yarn发版：　yarn publish --registry http://registry.npmjs.org   回车
+
+  使用npm发版：　npm publish --registry http://registry.npmjs.org   回车
+
+　　
+
+
+   npm login 登录npm
+
+　　此文件夹下为打包的文件，可以发包的
+
+   
+  
+
+
